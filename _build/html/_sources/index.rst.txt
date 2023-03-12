@@ -3,18 +3,18 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Tutorial for GNN Active Learning's documentation!
+GNN Active Learning documentation
 ============================================================
+GNN active learning is a toolbox for constructing machine learning interatomic potentials via active learning. It contains basic building blocks of PaiNN model, the scripts for training and deploy of ML potentials.
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Getting start
 
+   install.rst
 
+.. toctree::
+   :maxdepth: 2
+   :caption: How to
 
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+   interface.rst
