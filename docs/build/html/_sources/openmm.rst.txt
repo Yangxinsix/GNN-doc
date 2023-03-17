@@ -9,9 +9,6 @@ Intallation
     conda install pytorch-gpu=1.13.1 openmm-torch -c conda-forge
 
 
----------------------
-No documentation yet.
-
-Deploy trained model ensemble
+Deploy trained model
 ------------------------------
 No documentation yet.
