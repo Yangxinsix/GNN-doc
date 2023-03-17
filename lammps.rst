@@ -9,7 +9,7 @@ Now Curator has an interface to LAMMPS_, which is a popular MD code and supports
 
 Requirements
 -------------
-CUDA_ (11.7)
+CUDA_ (11.8)
 
 cuDNN_
 

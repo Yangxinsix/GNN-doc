@@ -17,4 +17,5 @@ GNN active learning is a toolbox for constructing machine learning interatomic p
    :maxdepth: 2
    :caption: How to
 
-   interface.rst
+   lammps.rst
+   openmm.rst
